@@ -5,7 +5,7 @@
 <a href="https://github.com/LOGI-LAB/AllHackingTools/blob/main/LICENSE"><img title="License" src="https://img.shields.io/badge/License-GNU-brightgreen?style=for-the-badge&logo=gnu"></a>
 <a href=""><img title="Python" src="https://img.shields.io/badge/Python-3.7-red?style=for-the-badge&logo=python"></a>
 <a href="https://github.com/LOGI-LAB"><img title="Report" src="https://img.shields.io/badge/Copyring-2021-red?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/LOGI-LAB"><img title="Autor" src="https://img.shields.io/badge/Author-mishakorzik-blue?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/LOGI-LAB"><img title="Autor" src="https://img.shields.io/badge/Author-LOGESH-blue?style=for-the-badge&logo=github"></a>
 
 </p>
 
@@ -415,7 +415,7 @@ Desing:
 </p>
 
 ## Find Me 
-[![Github](https://img.shields.io/badge/Reddit-MishaKorzhik-red?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/LOGI-LAB?utm_medium=android_app&utm_source=share)
+[![Github](https://img.shields.io/badge/Reddit-LOGESH-red?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/LOGI-LAB?utm_medium=android_app&utm_source=share)
 [![Github](https://img.shields.io/badge/TELEGRAM-LOGESH-orange?style=for-the-badge&logo=telegram)](https://t.me/cl_me_logesh)
 [![Github](https://img.shields.io/badge/GitHub-LOGI-LAB-yellow?style=for-the-badge&logo=github)](https://github.com/LOGI-LAB)
 
