@@ -1,4 +1,4 @@
-<img width="99.9%" src="![image](https://github.com/LOGI-LAB/AllHackingTools/blob/main/ethical_2e0097bfc3.jpg)"/>
+<img width="99.9%" src="https://github.com/LOGI-LAB/AllHackingTools/blob/main/ethical_2e0097bfc3.jpg"/>
 
 <p align="center">
 <a href="https://github.com/mishakorzik/AllHackingTools"><img title="Version" src="https://img.shields.io/badge/Version-2.6.3-yellow?style=for-the-badge&logo="></a>
