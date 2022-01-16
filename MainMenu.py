@@ -1,7 +1,7 @@
 #!/usr/bin
 #Copyright 2021 AllHackingTools
-#Written by : Misha Korzhik
-#Github     : http://github.com/mishakorzik
+#Written by : LOGESH
+#Github     : http://github.com/LOGI-LAB
 
 import requests
 import os
